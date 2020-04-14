@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "http://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+
+
+    <fontcolor name="phpopenclose" foreColor="5fb3b3"/>
+
+    <!-- comentarios -->
+    <fontcolor name="comment" foreColor="4f5b66"/>
+    <fontcolor name="phpdockeyword" foreColor="4f5b66">
+       <font name="Fira Code" style="bold"/>
+    </fontcolor>
+   
+
+    <!-- identificadores ClassName, TraitName etc-->
+    <fontcolor name="identifier" foreColor="fac863" />
+   
+    <!-- palavras chave echo, trait, class etc -->
+    <fontcolor name="keyword" foreColor="c594c5"/>
+
+    <!-- separadores \ ; -->
+    <fontcolor name="separator" foreColor="5fb3b3" />
+
+    <!-- operadores -> :: -->
+    <fontcolor name="operator" foreColor="5fb3b3" />
+    
+        
+    <!-- identificação da classe -->
+    <fontcolor name="mod-class" foreColor="fac863">
+       <font name="Fira Code" size="14" />
+    </fontcolor>
+
+    <fontcolor name="mod-method" foreColor="6699cc">
+       <font name="Fira Code" size="13"/>
+    </fontcolor>
+
+    <fontcolor name="constant" foreColor="c0c5ce"/>    
+
+    <fontcolor name="mod-static" forecode="5fb3b3">
+       <font style="italic"/>
+    </fontcolor>
+    
+    
+    <fontcolor name="mod-field" foreColor="cdd3de"/>
+
+    <fontcolor name="variable" foreColor="d8dee9"/>
+    <fontcolor name="PHP_VARIABLE" foreColor="5fb3b3"/>
+
+
+    <fontcolor name="heredocdelimiter" foreColor="5fb3b3"/>
+   
+    <fontcolor name="htmltag" default="comment" foreColor="ffEB606B">
+        <font style="bold"/>
+    </fontcolor>
+   
+    
+    <fontcolor name="url" foreColor="6699cc" underline="6699cc"/>
+
+
+    <!-- numeros -->
+    <fontcolor name="number" foreColor="f99157" />
+
+    <!-- strings -->
+    <fontcolor name="PHP_STRING" foreColor="99c794"/>
+    <fontcolor name="string" foreColor="99c794" />
+    <fontcolor name="char" foreColor="99c794" />
+
+
+    <fontcolor name="mark-occurrences" default="default" foreColor="ff1B2B34" bgColor="ffFAC863"/>
+   
+</fontscolors>

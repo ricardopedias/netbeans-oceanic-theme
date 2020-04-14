@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "http://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor bgColor="ff4f5b66" default="default" foreColor="ffa7adba" name="nbeditor-bracesMatching-match"/>
+    <fontcolor bgColor="ffffffe0" name="coverage-partial"/>
+    <fontcolor default="default" foreColor="ffa7adba" name="text-limit-line-color"/>
+        <fontcolor bgColor="ff2b3943" foreColor="ff8c8c8c" name="code-folding"/>
+    <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
+    <fontcolor bgColor="ffd83636" default="default" name="nbeditor-bracesMatching-mismatch"/>
+    <fontcolor bgColor="ff33434c" name="highlight-caret-row"/>
+    <fontcolor bgColor="ffc0c5ce" foreColor="ffc0c5ce" name="caret-color-overwrite-mode"/>
+    <fontcolor name="status-bar"/>
+    <fontcolor bgColor="ffccffcc" name="coverage-covered"/>
+    <fontcolor bgColor="cyan" name="guarded"/>
+    <fontcolor name="trailing-whitespace"/>
+    <fontcolor bgColor="ffe0ffe0" name="coverage-inferred"/>
+    <fontcolor bgColor="ffd83636" default="default" name="nbeditor-bracesMatching-mismatch-multichar"/>
+        <fontcolor foreColor="ff1b2b34" name="code-folding-border"/>
+    <fontcolor foreColor="ff1b2b34" name="west-sidebars-color"/>
+    <fontcolor foreColor="red" name="status-bar-bold"/>
+    <fontcolor foreColor="ff6b8eb2" name="nbeditor-bracesMatching-sidebar"/>
+    <fontcolor foreColor="ff657379" bgColor="ff1b2b34" name="line-number"/>
+    <fontcolor bgColor="ffdfdfdf" name="readonly-files"/>
+    <fontcolor bgColor="fffac863" default="default" foreColor="black" name="highlight-search"/>
+        <fontcolor foreColor="992b3943"  name="code-folding-bar"/>
+    <fontcolor foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
+    <fontcolor foreColor="992b3943" bgColor="992b3943" name="indent-guide-lines"/>
+    <fontcolor name="indent-whitespace"/>
+    <fontcolor bgColor="ff4f5b66" default="default" foreColor="ffa7adba" name="block-search"/>
+    <fontcolor bgColor="44ffffff" default="default" foreColor="ffa7adba" name="selection"/>
+    <fontcolor bgColor="ffffcccc" name="coverage-uncovered"/>
+    <fontcolor bgColor="ffffb442" foreColor="black" name="inc-search"/>
+    <fontcolor default="default" foreColor="ffa7adba" name="nbeditor-bracesMatching-match-multichar"/>
+    <fontcolor bgColor="ffc0c5ce" foreColor="ffc0c5ce" name="caret-color-insert-mode"/>
+    <fontcolor foreColor="blue" name="hyperlinks" underline="blue"/>
+</fontscolors>
